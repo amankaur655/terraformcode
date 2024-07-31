@@ -17,3 +17,4 @@ pipeline {
                  echo 'Hello package'
              }
          }
+     }
